@@ -5,5 +5,7 @@ async function main() {
     const averagePriceChartCanvas = document.querySelector('#average-price-chart');
 
 }
+// step 2 part three-- creating a fecth request 
+async function main( ) {
 
-main()
+}
